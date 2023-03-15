@@ -1,0 +1,15 @@
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor_Updated\CSV_File_Editor_Updated\CSV_File_Editor_Updated\bin\Debug\net6.0\CSV_File_Editor_Updated.exe
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor_Updated\CSV_File_Editor_Updated\CSV_File_Editor_Updated\bin\Debug\net6.0\CSV_File_Editor_Updated.deps.json
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor_Updated\CSV_File_Editor_Updated\CSV_File_Editor_Updated\bin\Debug\net6.0\CSV_File_Editor_Updated.runtimeconfig.json
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor_Updated\CSV_File_Editor_Updated\CSV_File_Editor_Updated\bin\Debug\net6.0\CSV_File_Editor_Updated.dll
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor_Updated\CSV_File_Editor_Updated\CSV_File_Editor_Updated\bin\Debug\net6.0\CSV_File_Editor_Updated.pdb
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor_Updated\CSV_File_Editor_Updated\CSV_File_Editor_Updated\obj\Debug\net6.0\CSV_File_Editor_Updated.csproj.AssemblyReference.cache
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor_Updated\CSV_File_Editor_Updated\CSV_File_Editor_Updated\obj\Debug\net6.0\CSV_File_Editor_Updated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor_Updated\CSV_File_Editor_Updated\CSV_File_Editor_Updated\obj\Debug\net6.0\CSV_File_Editor_Updated.AssemblyInfoInputs.cache
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor_Updated\CSV_File_Editor_Updated\CSV_File_Editor_Updated\obj\Debug\net6.0\CSV_File_Editor_Updated.AssemblyInfo.cs
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor_Updated\CSV_File_Editor_Updated\CSV_File_Editor_Updated\obj\Debug\net6.0\CSV_File_Editor_Updated.csproj.CoreCompileInputs.cache
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor_Updated\CSV_File_Editor_Updated\CSV_File_Editor_Updated\obj\Debug\net6.0\CSV_File_Editor_Updated.dll
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor_Updated\CSV_File_Editor_Updated\CSV_File_Editor_Updated\obj\Debug\net6.0\refint\CSV_File_Editor_Updated.dll
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor_Updated\CSV_File_Editor_Updated\CSV_File_Editor_Updated\obj\Debug\net6.0\CSV_File_Editor_Updated.pdb
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor_Updated\CSV_File_Editor_Updated\CSV_File_Editor_Updated\obj\Debug\net6.0\CSV_File_Editor_Updated.genruntimeconfig.cache
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor_Updated\CSV_File_Editor_Updated\CSV_File_Editor_Updated\obj\Debug\net6.0\ref\CSV_File_Editor_Updated.dll
